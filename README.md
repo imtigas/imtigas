@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @imtigas
-- 📫 How to reach me : guess what?
-- ⚡ Fun fact: I need to think about it
+- 👋 Hi there
 
 <!---
 imtigas/imtigas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
